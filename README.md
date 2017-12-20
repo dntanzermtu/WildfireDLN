@@ -6,4 +6,4 @@ Project Leads
 * __D Martin Swany__, Indiana University
 * __Micah Beck__, University of Tennessee, Knoxville
 
-![WildfireDLN Poster]( WildfireDLN/Slide1.PNG )
+![WildfireDLN Poster](https://github.com/dntanzermtu/WildfireDLN/blob/readme-edits/Slide1.PNG)

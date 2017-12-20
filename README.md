@@ -3,6 +3,6 @@ WildfireDLN will deliver rich and informative data with a robust system that sup
 
 Project Leads
 
-* Nancy HF French (PI), Michigan Tech Research Institute
-* D Martin Swany, Indiana University
-* Micah Beck, University of Tennessee, Knoxville
+* __Nancy HF French (PI)__, Michigan Tech Research Institute
+* __D Martin Swany__, Indiana University
+* __Micah Beck__, University of Tennessee, Knoxville
